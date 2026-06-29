@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 const kpis = [
   { label: "Total Pipeline", value: "$428K", detail: "37 active deals", tone: "blue" },
   { label: "Closed Won MTD", value: "$86K", detail: "9 deals closed", tone: "green" },
@@ -203,7 +205,7 @@ export default function Home() {
     <main className="site-shell">
       <header className="topbar" aria-label="SalesOps">
         <a className="brand" href="#top" aria-label="SalesOps home">
-          <span className="brand-mark" aria-hidden="true" />
+          <Image className="brand-logo" src="/salesops-logo.svg" width={31} height={31} alt="" aria-hidden="true" priority />
           <span>SalesOps</span>
         </a>
         <nav className="nav-links" aria-label="Primary navigation">
