@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">SalesOps logo</title>
+  <desc id="desc">A blue sales operations control mark with connected pipeline nodes.</desc>
+  <rect width="128" height="128" rx="28" fill="#111827"/>
+  <path d="M35 72c13-24 33-31 58-21" fill="none" stroke="#3B82F6" stroke-width="10" stroke-linecap="round"/>
+  <path d="M38 88c18-3 30-13 39-31" fill="none" stroke="#6366F1" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="35" cy="72" r="9" fill="#FFFFFF"/>
+  <circle cx="78" cy="57" r="9" fill="#FFFFFF"/>
+  <circle cx="93" cy="51" r="9" fill="#10B981"/>
+  <circle cx="38" cy="88" r="7" fill="#F59E0B"/>
+  <path d="M51 42h30" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round"/>
+  <path d="M48 106h34" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" opacity=".72"/>
+</svg>

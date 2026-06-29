@@ -5,6 +5,9 @@ export const metadata: Metadata = {
   title: "SalesOps | Sales operations workspace",
   description:
     "A sales operations workspace for managing prospecting, follow-up, pipeline, and revenue visibility across every channel.",
+  icons: {
+    icon: "/salesops-logo.svg",
+  },
 };
 
 export default function RootLayout({
